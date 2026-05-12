@@ -1,4 +1,4 @@
-# 
+# Enhance TeamViewer for macOS with exclusive TeamViewer for macOS Helper | multi-device-support + session-recording, the #1 helper. Includes multi-device-support and
 
 
 
